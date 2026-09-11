@@ -352,69 +352,99 @@ Task_Management_System/
 
 # 🖥️ Application Screenshots
 
-## 🔐 Login Page
+## 🔐 Login
 
-The login page provides secure authentication using credentials and Google OAuth2.
+![Login](screenshots/login.png)
 
-![Login Page](screenshots/login.png)
+---
+
+## 🔑 Google Login
+
+![Google Login](screenshots/google-login.png)
 
 ---
 
 ## 👨‍💼 Admin Dashboard
 
-The Admin Dashboard provides an overview of users, projects, teams, approvals, and system activities.
-
 ![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
+## 👥 User Approvals
+
+![User Approvals](screenshots/user-approvals.png)
+
+---
+
+## 🔒 User Security Details
+
+![User Security Details](screenshots/user-security-details.png)
+
+---
+
+## 📋 Audit Logs
+
+![Audit Logs](screenshots/audit-logs.png)
+
+---
+
+## 📦 Bulk Project Upload
+
+![Bulk Project Upload](screenshots/bulk-project-upload.png)
+
+---
+
+## 📝 Bulk Task Upload
+
+![Bulk Task Upload](screenshots/bulk-task-upload.png)
 
 ---
 
 ## 📊 Project Manager Dashboard
 
-Project Managers can monitor projects, tasks, progress, workload, and team capacity.
-
 ![Project Manager Dashboard](screenshots/project-manager-dashboard.png)
 
 ---
 
-## 👨‍💻 Employee Dashboard
+## ➕ Create Project
 
-Employees can view assigned tasks, progress, priorities, workload, and working hours.
+![Project Create](screenshots/project-create.png)
 
-![Employee Dashboard](screenshots/employee-dashboard.png)
+---
+
+## 📂 Project Management
+
+![Project Management](screenshots/project-management.png)
+
+---
+
+## 👥 Project Team Allocation
+
+![Project Team Allocation](screenshots/project-team-allocation.png)
+
+---
+
+## 👨‍👩‍👦 Project Team Management
+
+![Project Team Management](screenshots/project-team-management.png)
+
+---
+
+## ➕ Create Task
+
+![Task Create](screenshots/task-create.png)
 
 ---
 
 ## 📋 Task Management
 
-Project Managers can create, assign, update, and monitor tasks.
-
 ![Task Management](screenshots/task-management.png)
 
 ---
 
-## 📌 Kanban View
+## 👨‍💻 Employee Dashboard
 
-Tasks can be visualized using a Kanban workflow for easier progress tracking.
-
-![Kanban View](screenshots/kanban-view.png)
-
----
-
-## 👥 User Management
-
-Admins can review users, manage approvals, and control organizational access.
-
-![User Management](screenshots/user-management.png)
-
----
-
-## 👤 Profile & Notifications
-
-Users can manage their profile, profile picture, role information, and notifications.
-
-![Profile](screenshots/profile.png)
-
----
+![Employee Dashboard](screenshots/employee-dashboard.png)
 
 # 🔐 Authentication Architecture
 
